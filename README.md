@@ -1,5 +1,6 @@
 # SummerEase - Meeting Notes Summarizer
 
+Demo Video - https://shorturl.at/uiEfA
 link - https://meeting-notes-summarizer-app.vercel.app/
 
 Summarize meeting transcripts using AI and share them via email.
